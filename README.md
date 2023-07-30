@@ -1,6 +1,6 @@
-### Shauane Santos about preview
+### about Shauane Santos
 
-- 🎡From Brazil, pr
+- 🎡 From Brazil, pr
 - 🎟️ I’m currently learning new front and back-end languages, and 
   looking to collaborate on future big projects. 
 - contact by: shauaneeliza@gmail.com
@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="shau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="shau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="shau-JAVA" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="shau-JAVA" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css.svg">
           
           
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
